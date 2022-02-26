@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1645704170 source:c:\users\familia\documents\trabalhoeda\main.c
+	"arquivos.h"
+	<conio.h>
+	<ctype.h>
+	<locale.h>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1645658127 c:\users\familia\documents\trabalhoeda\arquivos.h
+	<conio.h>
+	<ctype.h>
+	<locale.h>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1645703145 source:c:\users\familia\documents\trabalhoeda\arquivos.c
+	"arquivos.h"
+
+1645835067 source:c:\users\familia\desktop\trabalhoeda\arquivos.c
+	"arquivos.h"
+
+1645742106 c:\users\familia\desktop\trabalhoeda\arquivos.h
+	<conio.h>
+	<ctype.h>
+	<locale.h>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1645704170 source:c:\users\familia\desktop\trabalhoeda\main.c
+	"arquivos.h"
+	<conio.h>
+	<ctype.h>
+	<locale.h>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1645840466 source:c:\users\familia\desktop\trabalhoeda\triphotel.c
+	"arquivos.h"
+	<conio.h>
+	<ctype.h>
+	<locale.h>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
